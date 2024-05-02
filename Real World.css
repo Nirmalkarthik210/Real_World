@@ -1,0 +1,317 @@
+.bg {
+    background-image: url(img/368311.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+.button_1 {
+    width: 140px;
+    height: 45px;
+    background-color: rgba(255, 255, 255, 0);
+    border-width: 3px;
+    border-radius: 5px;
+    border-color: rgb(143, 142, 142);
+    color: rgb(143, 142, 142);
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-left: 1320px;
+    margin-top: 20px;
+}
+.sec1_title{
+    margin-top: 1px;
+    color: rgb(109, 108, 108);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.sec1_header {
+    color: white;
+    font-size: 60px;
+    margin-top: 5px;
+    margin-bottom: 1px;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+.sec1_txt {
+    color: white;
+    font-size: 25px;
+    margin-top: 1px;
+    font-family: Inter Variablefont Slnt Wght, sans-serif;
+    font-weight: lighter;
+}
+.sec1_vid_main {
+    box-shadow: 10px 10px 10px #a3a3a38f;
+}
+.sec1_main_button {
+    background-color: rgb(249, 188, 6);
+    width: 300px;
+    height: 60px;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.sec1_main_button:hover {
+    opacity: 0.6;
+}
+.sec1_main_button:active {
+    opacity: 0.4;
+}
+.sec1_txt_sub {
+    font-family: sans-serif;
+    color: white;
+    margin-top: 1px;
+}
+.section_2_logos {
+    margin-left: 200px;
+}
+.logo_img_old {
+    width: 150px;
+    height: 150px;
+    margin-left: 30px;
+}
+.logo_name_old {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #595757;
+    margin-left: -20px;
+}
+.pointer_img {
+    transform: rotate(90deg);
+    margin-left: 80px;
+    margin-top: 20px;
+}
+.logo_img_new {
+    height: 120px;
+    width: 270px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: -30px;
+}
+.logo_name_new {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #f6f5f5;
+}
+.section_2 {
+    margin-top: -370px;
+    font-family: sans-serif;
+    margin-left: 30%;
+    color: white;
+}
+.sec2_l {
+    font-size: 20px;
+    color: #727171;
+    font-weight: bold;
+}
+.sec2_header {
+    font-size: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+.sec2_l2 {
+    font-size: 25px;
+}
+.sec2_l3 {
+    font-size: 20px;
+    color: #727171;
+}
+.sec2_l5 {
+    font-size: 20px;
+}
+.H21 {
+    font-weight: 750;
+    color: rgb(255, 189, 68);
+}
+.H22 {
+    font-weight: bold;
+    color: #efac25;
+}
+.radial-line {
+    width: 100%;
+    height: 1px;
+    margin-top: 50px;
+    background-image: radial-gradient(circle, #fff 23%, #000);
+}
+.header_1 {
+    font-size: 60px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    color: white;
+}
+.header_1_sub{
+    font-size: 25px;
+    font-weight: lighter;
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    padding-right: 200px;
+    padding-left: 200px;
+    margin-bottom: 35px;
+}
+.course-cover1 {
+    background-color: rgb(44, 44, 44);
+    padding: 50px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+    border-radius: 30px;
+    width: 630px;
+    height: 650px;
+}
+.course-cover1:hover{
+    opacity: 0.6;
+    border-color: white;
+    border-width: 2px;
+}
+.course-cover2 {
+    background-color: rgb(44, 44, 44);
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: -700px;
+    margin-left: 53%;
+    margin-bottom: 50px;
+    border-radius: 30px;
+    width: 630px;
+    height: 650px;
+}
+.course-cover2:hover{
+    opacity: 0.6;
+    border-color: white;
+}
+.course-titles-img1 {
+    width: 45px;
+    height: 45px;
+    float: left;
+    margin-right: 30px;
+    margin-left: 17%;
+}
+.course-titles1 {
+    font-family: sans-serif;
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 0;
+    align-self: center;
+}
+.course-titles-content1 {
+    font-size: 23px;
+    font-weight: lighter;
+    color: rgb(163, 160, 160);
+    font-family: sans-serif;
+    align-self: center;
+}
+.course_button{
+    width: 440px;
+    height: 60px;
+    background-color: rgba(255, 191, 0, 0.916);
+    border-width: 5px ;
+    border-color: rgba(192, 109, 7, 0.593);
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+.course_button:hover{
+    opacity: 0.6;
+}
+.course_button:active{
+    opacity: 0.6;
+}
+.sec_3 {
+    margin-top: 60px;
+    font-size: 17px;
+    color: #727171;
+}
+.sec_3_img1 {
+    width: 650px;
+    height: 400px;
+    padding-top: 100px;
+    float: left;
+    opacity: 1px;
+    transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX('0deg') rotateY('0deg') rotateZ('0deg') skew(0deg, 0deg);
+    transform-style: preserve-3d;
+}
+.sec_3_div1 {
+    font: 1em sans-serif;
+    color: rgb(248, 247, 247);
+    padding-left: 750px;
+    padding-top: 10px;
+}
+.sec_3_subhead {
+    font-family: sans-serif;
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+}
+.sec_3_subtxt {
+    font-size: 25px;
+    font-weight: lighter;
+    color: white;
+    font-family: sans-serif;
+    padding-right: 50px;
+}
+.sec_3_img2 {
+    margin-bottom: -100px;
+    width: 750px;
+    height: 600px;
+    float: right;
+}
+.div5 {
+    margin-right: 750px;
+    margin-top: 100px;
+    margin-left: 70px;
+}
+.sec_3_img3 {
+    width: 790px;
+    height: 550px;
+    margin-top: 50px;
+    float: left;
+}
+.sec_3_button {
+    width: 170px;
+    height: 50px;
+    background-color: rgb(240, 178, 33);
+    border: none;
+    color: black;
+    font-family: sans-serif;
+    font-size: 20px;
+    border-radius: 15px;
+}
+.sec_3_button:hover{
+    opacity: 0.6;
+}
+.sec_3_button:active{
+    opacity: 0.8;
+}
+.sec_3_txt {
+    color: white;
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 20px;
+    margin-right: 50px;
+    background-color: rgba(76, 76, 76, 0.677);
+    border: none;
+    border-radius: 10px;
+}
+.sec_3_txt1 {
+    color: white;
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 20px;
+    background-color: rgba(76, 76, 76, 0.677);
+    border: none;
+    border-radius: 10px;
+}
+.footer{
+    margin-top: 50px;
+    color: white;
+    font-family: sans-serif;
+}
+.footer_img{
+    margin-bottom: 20px;
+}
